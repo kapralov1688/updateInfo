@@ -1,0 +1,6 @@
+<item>
+    <version>2.0.0.0</version>
+    <url>https://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+    <checksum algorithm="SHA1">B1DEC6D14153E4E1A590885843C9248BA9A27ADA</checksum>
+    <changelog>https://github.com/ravibpatel/AutoUpdater.NET/releases</changelog>
+</item>
